@@ -1,0 +1,38 @@
+{
+  "package": "HistorySim Lite Teaching Pack",
+  "version": "v1.0",
+  "date": "2026-05-09",
+  "language": "zh-CN",
+  "project_scope": {
+    "regions": 30,
+    "factions": 4,
+    "persons": 50,
+    "skills": 20,
+    "events": 10,
+    "commands": [
+      "DEVELOP",
+      "RECRUIT",
+      "MOVE_ARMY",
+      "ATTACK",
+      "APPOINT"
+    ],
+    "algorithm_groups": 5,
+    "main_ui_panels": 4,
+    "teaching_sessions": 16,
+    "minutes_per_session": 90
+  },
+  "files": [
+    "00_资料包说明.md",
+    "01_教学规划.md",
+    "02_案例需求与范围说明.md",
+    "03_课程内容与知识点映射.md",
+    "04_系统架构与数据设计说明.md",
+    "05_分阶段任务指导书.md",
+    "06_学生项目实施手册.md",
+    "07_验收标准与评分量规.md",
+    "08_测试与质量保障指南.md",
+    "09_文档模板与提交规范.md",
+    "10_教师实施与过程管理手册.md",
+    "11_术语表.md"
+  ]
+}
